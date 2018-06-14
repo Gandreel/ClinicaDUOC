@@ -1,0 +1,2 @@
+# ClinicaDUOC
+Proyecto IDS
